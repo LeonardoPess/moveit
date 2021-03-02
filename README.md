@@ -22,6 +22,10 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
 </p>
 
+<div>
+   <img src="https://github.com/LeonardoPess/moveit/blob/main/Screenshot_1.png" width="400px">
+</div>
+
  This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
