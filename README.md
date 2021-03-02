@@ -21,12 +21,18 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
 </p>
- 
+
  This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+First, clone this repository:
+
+```bash
+git@github.com:LeonardoPess/moveit.git
+```
+
+and run the development server:
 
 ```bash
 npm run dev
