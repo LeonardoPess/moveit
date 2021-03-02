@@ -24,6 +24,8 @@
 
 <div>
    <img src="https://github.com/LeonardoPess/moveit/blob/main/Screenshot_1.png" width="400px">
+   <img src="https://github.com/LeonardoPess/moveit/blob/main/Screenshot_2.png" width="400px">
+   <img src="https://github.com/LeonardoPess/moveit/blob/main/Screenshot_3.png" width="400px">
 </div>
 
  This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
