@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="center"><b>MoveIt</b> é um projeto Front-End criado utilizando ReactJS, NextJS e TypeScript durante a NLW#4 da Rocketseat. Esse projeto usa a tecnica de Pomodoro, porém ao fim de cada sessão você recebe um desafio para fazer um exercício ou algo do tipo e com cada desafio completo você ganha xp e pode subit de nível.</p>
+<p align="center"><b>MoveIt</b> é um projeto Front-End criado utilizando ReactJS, NextJS e TypeScript durante a NLW#4 da Rocketseat. Esse projeto usa a tecnica de Pomodoro, porém ao fim de cada sessão você recebe um desafio para fazer um exercício ou algo do tipo e com cada desafio completo você ganha xp e pode subir de nível.</p>
 
 <p align="center">
   <a href="https://github.com/csorlandi">
