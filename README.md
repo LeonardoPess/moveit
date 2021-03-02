@@ -1,4 +1,22 @@
-# moveit
+<h1 align="center">
+  <a href="https://github.com/LeonardoPess/moveit">
+    <img alt="Move.it Logo" src="./public/logo-full.svg" />
+  </a>
+</h1>
+
+<p align="center"><b>MoveIt</b> é um projeto Front-End criado utilizando ReactJS, NextJS e TypeScript durante a NLW#4 da Rocketseat. Esse projeto usa a tecnica de Pomodoro, porém ao fim de cada sessão você recebe um desafio para fazer um exercício ou algo do tipo e com cada desafio completo você ganha xp e pode subit de nível.</p>
+
+<p align="center">
+  <a href="https://github.com/csorlandi">
+    <img alt="Made by Leonardo Pessoa" src="https://img.shields.io/badge/made%20by-Leonardo%20Pessoa-5965e0">
+  </a>
+
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/LeonardoPess/moveit?color=rgb(89,101,224)">
+
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/LeonardoPess/moveit?color=rgb(89,101,224)">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
+</p>
  
  This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
