@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="center"><b>MoveIt</b> é um projeto Front-End criado utilizando ReactJS, NextJS e TypeScript durante a NLW#4 da Rocketseat. Esse projeto usa a tecnica de Pomodoro, porém ao fim de cada sessão você recebe um desafio para fazer um exercício ou algo do tipo e com cada desafio completo você ganha xp e pode subir de nível.</p>
+<p align="center"><b>MoveIt</b> is a Front-End Project developed with ReactJS, NextJS and TypeScript during Rocketseat's NLW#4. This project uses the Pomodoro technique, but at the end of each session you are challenged to do an exercise or something like it and completing these challenges, you earn XP and can level up.</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/leonardo-pessoa-5733121b5/">
